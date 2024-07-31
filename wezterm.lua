@@ -24,7 +24,7 @@ local config = {
             source = {
                 File = {
                     path = home_path .. "/.config/wezterm/resource/term_bg_3.gif",
-                    speed = 0.3,
+                    speed = 0.18,
                 },
             },
             hsb = {
