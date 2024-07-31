@@ -16,15 +16,15 @@ local config = {
     外观
     --]]
     default_cursor_style = "BlinkingBar",
-    color_scheme = 'Sequoia Monochrome',
+    color_scheme = 'Catppuccin Frappe',
     font = wezterm.font("JetBrains Mono", { weight = "Bold" }),
     font_size = 12.5,
     background = {
         {
             source = {
                 File = {
-                    path = home_path .. "/.config/wezterm/resource/term_bg_3.gif",
-                    speed = 0.18,
+                    path = home_path .. "/.config/wezterm/resource/term_bg_5.gif",
+                    speed = 0.30,
                 },
             },
             hsb = {
